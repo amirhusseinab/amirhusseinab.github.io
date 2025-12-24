@@ -7,7 +7,8 @@ redirect_from:
   - /markdown.html
 ---
 
-## Locations of key files/directories
+## Publications
+You may also find my articles on [my Google Scholar profile]() 
 
 * Basic config options: _config.yml
 * Top navigation bar config: _data/navigation.yml
